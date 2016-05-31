@@ -1,0 +1,7 @@
+{
+    "name": "RoR Salesforce Sample",
+    "description": "Sample Telesales app written in RoR using the Salesforce.com REST API. http://telesales-rails.heroku.com",
+    "repository": "https://github.com/chiragmehta84/Telesales-Rails", 
+    "logo": "https://node-js-sample.herokuapp.com/node.svg",
+    "keywords": ["ror", "salesforce", "restapi"]
+}
